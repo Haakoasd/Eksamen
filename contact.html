@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Home</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='css/main.css'>
+
+    <!--Font import-->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap" rel="stylesheet">
+
+    <script defer src='js/main.js'></script>
+</head>
+<body>
+    <header>
+        <h1>My personal website</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="lists.html">Lists</a></li>
+                <li><a href="quiz.html">Quiz</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+
+    <main>
+        <div class="alignCenter">
+            <form class="contactForm" onsubmit="return saveContactInfo()" name="contactForm">
+                <h3>Contact info</h3>
+                <input type="text" name="first_name" id="fname" placeholder="First Name">
+                <input type="text" name="last_name" id="lname" placeholder="Last Name">
+                <input type="text" name="age" id="age" placeholder="Age">
+                <input type="text" name="email" id="email" placeholder="Email">
+                <input type="text" name="address" id="address" placeholder="Address">
+                <input type="text" name="city" id="city" placeholder="City">
+                <input type="submit" value="Submit">
+            </form>
+        </div>
+
+    </main>
+</body>
+</html>

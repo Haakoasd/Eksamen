@@ -1,0 +1,135 @@
+[
+    {
+      "fornavn": "Simen",
+      "etternavn": "Wahl",
+      "age": "23",
+      "city": "Bjørndal",
+      "relationship": "Friend"
+    },
+    {
+      "fornavn": "Eirik",
+      "etternavn": "Asdøl",
+      "age": "28",
+      "city": "Asker",
+      "relationship": "Family"
+    },
+    {
+      "fornavn": "Cathrine",
+      "etternavn": "Asdøl",
+      "age": "53",
+      "city": "Slependen",
+      "relationship": "Family"
+    },
+    {
+      "fornavn": "Oskar",
+      "etternavn": "Aalde",
+      "age": "27",
+      "city": "Bjørndal",
+      "relationship": "Friend"
+    },
+    {
+      "fornavn": "Jørgen",
+      "etternavn": "Lippert",
+      "age": "23",
+      "city": "Råde",
+      "relationship": "Friend"
+    },
+    {
+      "fornavn": "Ole",
+      "etternavn": "Ensrud",
+      "age": "23",
+      "city": "Saltnes",
+      "relationship": "Friend"
+    },
+    {
+      "fornavn": "Dag Sander",
+      "etternavn": "Bjørndalen",
+      "age": "23",
+      "city": "Simostranda",
+      "relationship": "Friend"
+    },
+    {
+      "fornavn": "Anders",
+      "etternavn": "Asdøl",
+      "age": "56",
+      "city": "Slependen",
+      "relationship": "Family"
+    },
+    {
+      "fornavn": "Nikoline",
+      "etternavn": "Asdøl",
+      "age": "26",
+      "city": "Oslo",
+      "relationship": "Family"
+    },
+    {
+      "fornavn": "Thomas",
+      "etternavn": "Larsen",
+      "age": "23",
+      "city": "Sandvika",
+      "relationship": "Friend"
+    },
+    {
+      "fornavn": "Øyvind",
+      "etternavn": "Lio",
+      "age": "23",
+      "city": "Eidsvoll",
+      "relationship": "Friend"
+    },
+    {
+      "fornavn": "Øystein",
+      "etternavn": "Markegård",
+      "age": "23",
+      "city": "Geilo",
+      "relationship": "Friend"
+    },
+    {
+      "fornavn": "Vetle",
+      "etternavn": "Tønnessen",
+      "age": "22",
+      "city": "Tønsberg",
+      "relationship": "Family"
+    },
+    {
+      "fornavn": "Vebjørn",
+      "etternavn": "Moen",
+      "age": "23",
+      "city": "Bodø",
+      "relationship": "Friend"
+    },
+    {
+      "fornavn": "Emil",
+      "etternavn": "Brøto",
+      "age": "23",
+      "city": "Gol",
+      "relationship": "Friend"
+    },
+    {
+      "fornavn": "Vetle",
+      "etternavn": "Paulsen",
+      "age": "22",
+      "city": "Oslo",
+      "relationship": "Friend"
+    },
+    {
+      "fornavn": "Ola",
+      "etternavn": "Kvisle",
+      "age": "26",
+      "city": "Asker",
+      "relationship": "Friend"
+    },
+    {
+      "fornavn": "Harald",
+      "etternavn": "Amundsen",
+      "age": "23",
+      "city": "Asker",
+      "relationship": "Friend"
+    },
+    {
+      "fornavn": "Jacob",
+      "etternavn": "Hjermann",
+      "age": "23",
+      "city": "Kristiansand",
+      "relationship": "Friend"
+    }
+  ]
